@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Ski Weather</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="states">
+
+        <item>CALIFORNIA</item>
+        <item>COLORADO</item>
+        <item>CONNECTICUT</item>
+        <item>IDAHO</item>
+        <item>MAINE</item>
+        <item>MONTANA</item>
+        <item>NEWYORK</item>
+        <item>UTAH</item>
+        <item>VERMONT</item>
+        <item>VIRGINIA</item>
+    </string-array>
+    <string-array name="CONNECTICUT">
+        <item>Ski Sundown</item>
+    </string-array>
+    <string-array name="NEWYORK">
+        <item>Lake Placid</item>
+    </string-array>
+    <string-array name="MONTANA">
+        <item>Big Sky</item>
+    </string-array>
+    <string-array name="CALIFORNIA">
+        <item>Lake Tahoe</item>
+    </string-array>
+    <string-array name="IDAHO">
+        <item>Sun Valley</item>
+        <item>Silver Mountain</item>
+    </string-array>
+    <string-array name="VERMONT">
+        <item>Sugarbush</item>
+        <item>Stratton</item>
+        <item>Okemo Mountain</item>
+    </string-array>
+    <string-array name="COLORADO">
+        <item>Aspen</item>
+        <item>Vail</item>
+        <item>Snowmass</item>
+        <item>Wolf Creek</item>
+        <item>Purgatory</item>
+    </string-array>
+    <string-array name ="UTAH">
+        <item>Park City</item>
+        <item>Powder Mountain</item>
+    </string-array>
+    <string-array name="MAINE">
+        <item>Big Rock</item>
+        <item>Lost Valley</item>
+    </string-array>
+    <string-array name="VIRGINIA">
+        <item>Winter Green</item>
+        <item>Massanutten</item>
+        <item>Snowshoe</item>
+
+    </string-array>
+    <string-array name="Days">
+        <item>Today</item>
+        <item>Tomorrow</item>
+        <item>Weekend</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>3 days</item>
+        <item>4 days</item>
+        <item>5 days</item>
+        <item>6 days</item>
+        <item>7 days</item>
+    </string-array>
+
+
+</resources>
